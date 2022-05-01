@@ -2,7 +2,7 @@ print("    ####### BEM-VINDO A CALC SIMPLES DO JUCI #######     ")
 print("Escolha uma opção: "
                     "\n + para adição "
                     "\n - para subtração "
-                    "\n x para multiplicação "
+                    "\n * para multiplicação "
                     "\n / para divisão ")
 resultado = input("Escolha qual operação deseja fazer: ")
 n1 = float(input("Informe o primeiro número: "))
